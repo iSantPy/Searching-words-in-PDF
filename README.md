@@ -1,4 +1,4 @@
-# Searching words in PDFs using Python :commputer: :file_folder:
+# Searching words in PDFs using Python :computer: :file_folder:
 I decided to organize the information and store it in PDF files on my laptop. I had many files stored in different directories,
 and I needed to gather all these files based on common specifications. I really enjoy the power that Python delivers when handling
 many files on your computer as your main task!
